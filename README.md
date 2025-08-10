@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-> Hello! I am a 17 year-old high-school graduate and aspiring developer who likes to program websites and games. I'm excited to discover and learn from new opportunities as I strive to expand my abilities every day!
+> Hello! I am an 18 year-old college freshman and aspiring developer who likes to program websites and games. I'm excited to discover and learn from new opportunities as I strive to expand my abilities every day!
 
 <br>
 
