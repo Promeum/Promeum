@@ -36,20 +36,21 @@ Creator of the [Super Ultra-Premium Dynamic SV Schedule](https://promeum.github.
 ### Languages
 
 <p align="left">
+  <img alt="Javascript" src="https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html" />
   <br>
   <img alt="Java" src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java" />
-  <img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" />
   <img alt="LuaU" src="https://img.shields.io/badge/-LuaU-black?style=for-the-badge&logo=lua" />
+  <img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" />
   <img alt="Godot" src="https://img.shields.io/badge/-gdscript-black?style=for-the-badge&logo=gdscript" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,godot,robloxstudio,vscode">
+  <img src="https://skillicons.dev/icons?i=github,obsidian,vscode,eclipse,robloxstudio,godot">
 </p>
 
 ### Github Stats
