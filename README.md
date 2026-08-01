@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-> Hello! I am an 18 year-old UMD freshman and aspiring developer who likes to program websites and games. I'm excited to discover and learn from new opportunities as I strive to expand my abilities every day!
+> Hello! I am an 19 year-old UMD sophmore and aspiring developer who likes to program websites and games. I'm excited to discover and learn from new opportunities as I strive to expand my abilities every day!
 
 <br>
 
@@ -36,11 +36,12 @@ Creator of the [Super Ultra-Premium Dynamic SV Schedule](https://promeum.github.
 ### Languages
 
 <p align="left">
-  <img alt="Javascript" src="https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html" />
   <br>
+  <img alt="C" src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c" />
   <img alt="Java" src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java" />
   <img alt="LuaU" src="https://img.shields.io/badge/-LuaU-black?style=for-the-badge&logo=lua" />
   <img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" />
